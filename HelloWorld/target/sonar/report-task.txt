@@ -1,0 +1,6 @@
+projectKey=com.tibco.bw:HelloWorld
+serverUrl=http://192.168.56.102:9000
+serverVersion=9.0.1.46107
+dashboardUrl=http://192.168.56.102:9000/dashboard?id=com.tibco.bw%3AHelloWorld
+ceTaskId=AXsXDe4GFVAKYCe_MktC
+ceTaskUrl=http://192.168.56.102:9000/api/ce/task?id=AXsXDe4GFVAKYCe_MktC
